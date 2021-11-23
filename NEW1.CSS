@@ -1,0 +1,26 @@
+#nav{
+  padding-left: 100px;
+}
+
+
+/* carasoul */
+#img{
+  height: 400px;
+}
+#img2{
+  height: 400px;
+}
+#img3{
+  height: 400px;
+}
+#p1{
+  font-size: 50px;
+}
+#p2{
+  font-size: 50px;
+  color: white;
+}
+#p3{
+  font-size: 50px;
+  color: black;
+}
